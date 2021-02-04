@@ -24,7 +24,7 @@ const config = {
     ativo: '24 JAM',
     youtube: 'https://youtube.com/channel/UCRaC-6JyCW_iqbW1DbuXVxQ',
     whatsapp: 'https://chat.whatsapp.com/KBZ3JCMJGGABJWQcpuDrK5',
-    tanggal: `ENCONTRO: ${moment().format('DD')} ${mês} ${moment().format('YYYY')}`,
+    tanggal: `ENCONTRO: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
 
